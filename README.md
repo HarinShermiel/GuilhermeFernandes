@@ -20,8 +20,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [imdb-analysis](https://github.com/HarinShermiel/imdb-analysis) | Análise exploratória Top 1000 Filmes IMDb | Python, Pandas, Matplotlib, Seaborn |
 | [todo-kanban](https://github.com/HarinShermiel/todo-kanban) | Kanban Board com modo jogo de digitação | React, NestJS, SQLite, Docker |
-| *Em breve mais projetos...* | - | - |
 
 ---
 
